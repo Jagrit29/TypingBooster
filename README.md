@@ -7,5 +7,5 @@ A mini game to improve Typing Speed, made using Html ,CSS, Bootstrap and JavaScr
 ### Developer
 Jagrit
 
-### Instructor
+### Guidance
 Brad Traversy
