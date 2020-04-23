@@ -4,6 +4,8 @@ A mini game to improve Typing Speed, made using Html ,CSS, Bootstrap and JavaScr
 ## Play Here
 [TypingBooster Game](https://jagrit29.github.io/TypingBooster/)
 
+![Image description](link-to-image)
+
 ### Developer
 Jagrit
 
